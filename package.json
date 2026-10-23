@@ -11,5 +11,7 @@
     "chalk": "^5.3.0",
     "commander": "^11.0.0"
   },
+  "license": "UNLICENSED",
+  "author": "HYNAWEB",
   "keywords": ["synthetic-biology", "dna", "bioinformatics", "cli"]
 }
